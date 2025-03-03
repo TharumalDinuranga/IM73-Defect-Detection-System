@@ -50,4 +50,3 @@ The **IM73 defect detection system** is an automated vision inspection setup des
 
 ---
 
-📌 **Contributors**: _Your Name & Team_
